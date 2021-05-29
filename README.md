@@ -21,7 +21,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-
+- [Hướng đẫn sử đụng Firebase UI - Phạm Thành Nam](https://www.youtube.com/watch?v=7qoQPuXD0pQ)
 <!-- YOUTUBE:END -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zvw180&show_icons=true&locale=en&layout=compact" alt="zvw180" /></p>
 
