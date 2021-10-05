@@ -21,7 +21,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Hướng dẫn cài đặt app dịch file srt || Phạm Thành Nam](https://www.youtube.com/watch?v=-e2XwJ1Anx8)
+- [Translate file srt](https://www.youtube.com/watch?v=6Cuo9zMGNwk)
 <!-- YOUTUBE:END -->
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zvw180&show_icons=true&locale=en&layout=compact" alt="zvw180" /></p>
 
